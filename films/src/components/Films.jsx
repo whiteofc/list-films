@@ -6,7 +6,8 @@ function Films() {
     {name: 'Massacre da serra eletrica'},
     {name: 'Sonic'},
     {name: 'Homem aranha'},
-    {name: 'Homem aranha 3'}
+    {name: 'Homem aranha 3'},
+    {name :'Homen aranha - De volta ao lar'}
   ]
   const findFilms = listFilms.find(item => item.name === 'Homem aranha');
   
